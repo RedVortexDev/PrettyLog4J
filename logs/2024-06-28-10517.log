@@ -1,0 +1,18 @@
+2024-06-28 10:51:07 [✨ RUNTIME] [PrettyLog] Seems like the file already existed somehow.
+2024-06-28 10:51:07 [🔧 DEBUG] Running main() in Demo.java..
+2024-06-28 10:51:07 [ℹ️ INFORMATION] Very informative information
+2024-06-28 10:51:07 [✨ RUNTIME] I am running on time!
+2024-06-28 10:51:07 [🔌 NETWORK] Downloading maxwell.mp3
+2024-06-28 10:51:07 [✔️ SUCCESS] maxwell.mp3 has been downloaded!
+2024-06-28 10:51:07 [⚠️ WARNING] Warning.. file maxwell.mp3 may be corrupted!
+2024-06-28 10:51:07 [⛔ ERROR] maxwell.mp3 cannot be played!
+2024-06-28 10:51:07 [🚨 CRITICAL] Critical issue detected in the payment system!
+2024-06-28 10:51:07 [📋 AUDIT] User xXMegaGamerXx accessed the admin panel
+2024-06-28 10:51:07 [🔍 TRACE] Entering detailed trace mode for debugging
+2024-06-28 10:51:07 [🔒 SECURITY] Security breach attempt detected!
+2024-06-28 10:51:07 [🧍 USER ACTION] NeuroSama updated her profile picture to bread.png
+2024-06-28 10:51:07 [⏱️ PERFORMANCE] Response time is 250ms
+2024-06-28 10:51:07 [⚙️ CONFIG] MaxConnections set to 1000
+2024-06-28 10:51:07 [☠️ FATAL] Your life will be terminated
+2024-06-28 10:51:07 [💣 EXCEPTION] Cannot play maxwell.mp3!
+2024-06-28 10:51:07 [💣 EXCEPTION]    io.github.redvortexdev.prettylog.Demo.main(Demo.java:30)

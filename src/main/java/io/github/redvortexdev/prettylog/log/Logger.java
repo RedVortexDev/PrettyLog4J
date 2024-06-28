@@ -1,6 +1,7 @@
 package io.github.redvortexdev.prettylog.log;
 
 import io.github.redvortexdev.prettylog.ansi.AnsiColor;
+import io.github.redvortexdev.prettylog.log.style.LoggerStyle;
 import io.github.redvortexdev.prettylog.log.type.CustomLogType;
 import io.github.redvortexdev.prettylog.log.type.LogType;
 

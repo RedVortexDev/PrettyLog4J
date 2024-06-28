@@ -1,4 +1,4 @@
-package io.github.redvortexdev.prettylog.log;
+package io.github.redvortexdev.prettylog.log.style;
 
 @SuppressWarnings("unused")
 public enum LoggerStyle {

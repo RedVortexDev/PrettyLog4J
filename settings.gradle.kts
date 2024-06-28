@@ -1,2 +1,2 @@
-rootProject.name = "PrettyLog"
+rootProject.name = "PrettyLog4J"
 

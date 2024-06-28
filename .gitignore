@@ -2,6 +2,8 @@ logs/
 .gradle
 build/
 gradle/
+gradlew
+gradlew.bat
 
 ### IntelliJ IDEA ###
 .idea/
